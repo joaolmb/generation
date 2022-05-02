@@ -19,7 +19,7 @@ programa
 
 		limpa()
 		
-		se(indice<=0.25) {
+		se(indice<0.3) {
 			escreva("Todas as industrias podem continuar suas atividades")
 		} senao se(indice>=0.3 e indice<0.4) {
 			escreva("Indústrias do Grupo 1 devem paralisar usas operações")
@@ -35,7 +35,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 755; 
+ * @POSICAO-CURSOR = 753; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

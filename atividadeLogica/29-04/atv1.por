@@ -24,7 +24,7 @@ programa
 			M = E*4
 			escreva("\nO valor da multa é: R$"+M+",00")
 		} senao {
-			E = 0 
+			E = 0
 			M = 0
 			limpa()
 			escreva("A carga não foi excedida, então, não há multa. Muito obrigado!")
@@ -36,7 +36,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 625; 
+ * @POSICAO-CURSOR = 869; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
