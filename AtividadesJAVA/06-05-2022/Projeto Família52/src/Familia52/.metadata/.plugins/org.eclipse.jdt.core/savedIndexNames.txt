@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+J:\generation\Atividades\AtividadesJAVA\06-05-2022\Projeto Família52\src\Familia52\.metadata\.plugins\org.eclipse.jdt.core
