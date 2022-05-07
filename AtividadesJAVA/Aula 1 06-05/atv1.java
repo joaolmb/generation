@@ -25,6 +25,7 @@ public class atv1 {
 			System.out.println("O maior número é o: "+z);
 		} else {
 			System.out.println("O maior número é o: "+x);
+		
 		}
 	}
 
