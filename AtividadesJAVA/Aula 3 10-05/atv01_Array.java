@@ -28,8 +28,9 @@ public class atv01_Array {
 				soma += A[x];
 			}
 		}
-
-		A[4] = 100;
+		
+		// O 3 é a quarta posição dentro do array
+		A[3] = 100;
 
 		for (x = 0; x < 6; x++) {
 			System.out.println("\n" + A[x]);
